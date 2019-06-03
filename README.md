@@ -1,6 +1,6 @@
 # Real-Time Consumer Behaviour Prediction and Targeted Marketing Approach
 
-##Introduction
+## Introduction
 
 E-Commerce is a huge platform which is growing at an unprecedented rate all over the world. People regardless of age loves to shop from different e-stores. Online shopping provides more happiness as compared to physical shopping stores. The reason is simple as we have a lot of websites and apps focusing e-commerce, hence it has become simple to find anything on e-stores that you want to buy immediately. In the coming years, it is expected that thr growth of e-commerce will increase like never before with existing technologies. The rate of online shopping is increasing rapidly, and this is driving e-commerce owners crazy to keep their solid place in the online race. As per a survey, retail e-commerce sales will increase around 200% from 2014 to 2020.
 
